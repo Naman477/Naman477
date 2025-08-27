@@ -1,9 +1,34 @@
-- 👋 Hi, I’m @Naman477
-- 👀 I’m interested in projects
-- 🌱 I’m currently learning about softwares and artificial intelligence
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me insta id:- Naman4777
-<!---
-Naman477/Naman477 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hey there, I’m Naman!  
+
+Welcome to my GitHub profile ✨  
+I’m passionate about building **real-world projects** and exploring the world of **Artificial Intelligence & Software Development**. 🚀  
+
+---
+
+### 👀 Interests  
+- 💻 Working on cool projects that solve problems  
+- 🤖 Exploring AI, ML, and new technologies  
+- 🌐 Learning & experimenting with software tools  
+
+---
+
+### 🌱 Currently Learning  
+- Artificial Intelligence & Machine Learning  
+- Software Development Best Practices  
+- Federated Learning & Generative AI  
+
+---
+
+### 💞️ Open to Collaborate On  
+- AI & ML Projects 🤝  
+- Open-source contributions 🌍  
+- Innovative software solutions ⚡  
+
+---
+
+### 📫 Connect With Me  
+📷 Instagram: [@urs_.naman.20](https://instagram.com/urs_.naman.20)  
+
+---
+
+⭐ *Feel free to check out my repositories and drop a star if you like my work!* 🌟  
