@@ -2,7 +2,8 @@
 
 **Passionate about building impactful software and exploring the cutting edge of Artificial Intelligence.**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naman477&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ---
 
 ## 💡 About Me
@@ -17,11 +18,11 @@
 
 ## 🔥 My GitHub Stats
 
-Here are some of my recent activities and statistics!
+Here are some of my recent activities and statistics! **This card shows your grade!**
 
-| Top Languages | Stats |
+| Top Languages | Stats (with Grade) |
 | :---: | :---: |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats) | [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman477&layout=compact&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats) | [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman477&show_icons=true&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats) |
 
 ---
 
@@ -37,11 +38,11 @@ I am always open to collaboration on exciting projects, especially those involvi
 
 ## 🛠️ Tech Stack & Tools
 
-* **Languages:** Python, JavaScript, ... *(Add your main languages)*
-* **AI/ML:** TensorFlow, PyTorch, Scikit-learn, Hugging Face
-* **Web/Backend:** Node.js, Django/Flask, Docker
-* **Databases:** SQL, MongoDB
-* **Tools:** Git, VS Code, Linux
+* **Languages:** Python, JavaScript, C++, Shell
+* **AI/ML:** TensorFlow, PyTorch, Scikit-learn, Hugging Face, Keras
+* **Web/Backend:** Node.js, Django/Flask, Docker, REST APIs
+* **Databases:** SQL (PostgreSQL, MySQL), MongoDB
+* **Tools:** Git, VS Code, Linux, AWS/GCP (Mentioning cloud is good for Dev)
 
 ---
 
@@ -50,19 +51,20 @@ I am always open to collaboration on exciting projects, especially those involvi
 | Icon | Platform | Link |
 | :---: | :---: | :---: |
 | 📷 | **Instagram** | [@urs_.naman.20](https://instagram.com/urs_.naman.20) |
-| 📧 | **Email** | *[YOUR_EMAIL@example.com]* |
-| 💼 | **LinkedIn** | *[Your LinkedIn Profile Link]* |
+| 📧 | **Email** | **[YOUR_EMAIL@example.com]** | *(Don't forget to replace this!)*
+| 💼 | **LinkedIn** | **[Your LinkedIn Profile Link]** | *(Don't forget to replace this!)*
 
 ---
 
 ## 💬 Latest Activity & Quote
 
-[![Naman's most recent activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=re-dark)](https://github.com/anuraghazra/github-readme-activity-graph)
+[![Naman's most recent activity](https://github-readme-activity-graph.vercel.app/graph?username=naman477&theme=re-dark)](https://github.com/anuraghazra/github-readme-activity-graph)
 
 > *"The only way to do great work is to love what you do."* – Steve Jobs
+
 ---
 
 ## 🎉 Have a look at my repositories and drop a star if you find something cool!
 <p align="center">
   <img src="https://media.giphy.com/media/LmN8APtJ4L2r11iI82/giphy.gif" alt="Coding GIF" width="400"/>
-  </p>
+</p>
